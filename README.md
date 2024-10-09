@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**eunjjungg/eunjjungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 𝒍𝒊𝒔𝒕𝒆𝒏𝒊𝒏𝒈 . . .
+<br/>
+  
+<div align="center">
+  <img src="pic/sounds-from-friday-morning.jpg" alt="sounds 이미지 설명" width="500">
+  <br/> <br/>
+  <b>Sounds from Friday Morning<b/> 
+  <br/>
+  Burhou
+  <br/>
+  <br/>
+  0:52 ━━━━●────────── 3:52
+  <br/>
+  <br/>
+  ⇆ㅤㅤㅤㅤㅤ ◁ㅤㅤ❚❚ㅤㅤ▷ ㅤㅤㅤㅤㅤ↻
+</div>
+<br/>
